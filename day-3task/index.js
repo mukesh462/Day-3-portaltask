@@ -1,3 +1,4 @@
+1. // different types of loop in Array
 const arr=[1,2,3,4,5,6,7,8,9,10];
 
 for (let i = 0; i < arr.length; i++) {
@@ -17,7 +18,7 @@ for (const val of arr) {
 }
  const task = arr.forEach((number)=>console.log(number));
 
- // Create your own resume data in JSON format
+2. // Create your own resume data in JSON format
  
 const Resume = {
     "basics": {
